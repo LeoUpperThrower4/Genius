@@ -1,3 +1,3 @@
 # Genius
-Jogo Genius
-Neste repositório encontra-se a programação para o jogo Genius.
+
+Programação do jogo genius para Arduino. Feito para projeto no IFRS - Campus Rio Grande
